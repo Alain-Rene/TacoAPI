@@ -1,0 +1,6 @@
+@TacoAPI_HostAddress = http://localhost:5082
+
+GET {{TacoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
